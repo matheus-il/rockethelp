@@ -31,11 +31,14 @@ NOTA: É necessário ter todo o ambiente de desenvolvimento configurado antes (c
 ```bash 
 git clone https://github.com/matheus-il/rockethelp.git
 ```
+
 Depois execute as seguintes ações de linha de comando:
 ```bash
 cd rockethelp
 npm install
 ```
+NOTA: Por motivos de segurança, foi retirado os arquivos de configuração do firebase *google-services.json* (android) e *GoogleService-Info.plist* (ios). Para testar, você deve baixar seus próprios arquivos de configuração em sua conta no [firebase](https://console.firebase.google.com/) registrando o aplicativo com o nome do pacote ```com.rockethelp``` (nenhuma outra configuração adicional é necessária).   
+Deixe os arquivos baixados, na raiz do projeto.   
 Em seguida execute estes comandos:
 ```bash
 expo prebuild
