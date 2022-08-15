@@ -1,6 +1,6 @@
 ![RocketHelp Banner](.github/RocketHelpReadmeBanner.png)
 
-Aplicativo de solicitações de manutenção de equipamentos internos que pode ser usado em uma empresa.  
+💻 Aplicativo de solicitações de manutenção de equipamentos internos que pode ser usado em uma empresa.  
 
 ## Tecnologias:
 
@@ -18,6 +18,30 @@ Aplicativo de solicitações de manutenção de equipamentos internos que pode s
 - **[React Native SVG Transformer](https://github.com/kristerkari/react-native-svg-transformer)**
 - **[Expo Google Fonts](https://github.com/expo/google-fonts)**
 
+## Imagens
+<details>
+<summary>Prints das telas do projeto. 🙂📱</summary>
+  
+<h2>Tela de Login</h2>
+<img alt="Tela de Login" src="https://user-images.githubusercontent.com/22305898/184730519-d59c545f-ba4e-456a-a589-6ef1f83c0cf9.png"> </img>
+  
+<h2>Solicitações Abertas</h2>
+<img alt="Solicitações Abertas" src="https://user-images.githubusercontent.com/22305898/184730535-3a7157f8-941c-484a-ad5d-93e5b7fd19e2.png"> </img>
+  
+<h2>Solicitações Fechadas</h2>
+<img alt="Solicitações Fechadas" src="https://user-images.githubusercontent.com/22305898/184730540-09f6020a-9d8a-483c-b902-6f3cf274ae87.png"> </img>
+  
+<h2>Abrir Chamado</h2>
+<img alt="Abrir Chamado" src="https://user-images.githubusercontent.com/22305898/184730525-71444e27-5112-45e4-b66a-ce61ce8e1918.png"> </img>
+  
+<h2>Resolver Chamado</h2>
+<img alt="Resolver Chamado" src="https://user-images.githubusercontent.com/22305898/184730531-34437476-a4b8-4807-bed3-d0ac5bd8e889.png"> </img>
+  
+<h2>Chamado fechado</h2>
+<img alt="Chamado Fechado" src="https://user-images.githubusercontent.com/22305898/184730528-d12433d0-f768-4fb9-8f1c-2651a517c0db.png"> </img>
+</details>
+  
+  
 ## Aprendizado:
 
 - **Expo Bare Workflow** que permite adicionar código nativo (Android e iOS) sem perder as facilidades do Expo e ainda utilizando **TypeScript** para melhorar a produtividade e até encontrar erros no código facilmente.
